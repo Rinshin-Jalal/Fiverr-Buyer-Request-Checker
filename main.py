@@ -72,7 +72,7 @@ def main():
     print(no_of_requests)
     if no_of_requests != '0':
         send_notification(
-            no_of_requests, "https://discord.com/api/webhooks/908964073138429962/tXjc9-mVeNXZ6oCEZjzY4nNsBdS3jYCLG-eDWvCmgRfXkECw1vrls9tSpPCBqXwmXOh0")
+            no_of_requests, DISCORD_WEBHOOK_URL)
 
 
 if __name__ == "__main__":
