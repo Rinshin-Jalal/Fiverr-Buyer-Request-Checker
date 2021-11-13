@@ -1,6 +1,6 @@
 # Fiverr Buyer Request Checker
 
-## Hi I build script to check if any buyer's request is available in Fiverr
+### Hi I build script to check if any buyer's request is available in Fiverr
 
 Am Freelancer in Fiverr
 
@@ -16,7 +16,7 @@ This scripts runs a script every 5 minute to check using schedule library
 
 if any buyer's request it will message me `discord`
 
-# A Fiverr Freelancer ???
+## A Fiverr Freelancer ???
 
 You can also use this script 
 
