@@ -12,6 +12,8 @@ I got bored by doing this
 
 so I build a Web Scrapper with python to scrape the number of buyers request available
 
+This scripts runs a script every 5 minute to check using schedule library
+
 if any buyer's request it will message me `discord`
 
 # A Fiverr Freelancer ???
@@ -31,6 +33,7 @@ follow this easy steps
     DISCORD_WEBHOOK_URL=add your discord webhook url here without "'
     BUYER_REQUESTS_URL=add your fiverr buyer's request url without "'
     ```
+5. install dependencies with `pip install -r requirements.txt`
 4. run the script with `python main.py`
 
 check out <a href="https://rinzhin.net">My PortFolio</a>
